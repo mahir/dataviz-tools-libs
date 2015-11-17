@@ -1,8 +1,8 @@
 # Online Tools
-http://www.charted.co/ 
-http://app.raw.densitydesign.org/ 
-http://datawrapper.de 
-http://infogr.am/ 
+http://www.charted.co/--
+http://app.raw.densitydesign.org/--
+http://datawrapper.de--
+http://infogr.am/--
 http://www.tableau.com/products 
 http://d3js.org/ 
 https://cartodb.com 
