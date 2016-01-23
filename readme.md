@@ -1,8 +1,6 @@
 #Data Visualization Tools and Resources
 
-What follows is a list of data visualization tools and resources that Hacks/Hackers Jozi members have used and toyed with in both personal and professional projects. 
-
-The tools are grouped according functionality and will be updated whenever new ones are found.
+List of data visualization tools and resources grouped according functionality.
 
 ##Interactive Charts and Infographics
 
